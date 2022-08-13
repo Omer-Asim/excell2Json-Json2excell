@@ -1,0 +1,40 @@
+{
+  "name": "expressConvertApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "basic-auth": "^2.0.1",
+    "body-parser": "^1.20.0",
+    "convert-excel-to-json": "^1.7.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "form-data": "^4.0.0",
+    "https": "^1.0.0",
+    "luxon": "^2.4.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "multer": "^1.4.5-lts.1",
+    "multiparty": "^4.2.3",
+    "nodemon": "^2.0.19",
+    "numeral": "^2.0.6",
+    "pdf-to-excel": "^0.3.2",
+    "read-excel-file": "^5.3.5",
+    "to": "^0.2.9",
+    "update": "^0.7.4",
+    "uuid": "^8.3.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
